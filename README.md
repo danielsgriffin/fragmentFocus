@@ -1,6 +1,6 @@
 # fragmentFocus
 
-`fragmentFocus` is a userscript that improves the visibility and navigation of text fragments in You.com's Research Mode by generating a collapsible sidebar. This sidebar aggregates and highlights text fragments from the citation hyperlinks, facilitating the examination of these function of these fragments.
+`fragmentFocus` is a userscript that improves the visibility and navigation of text fragments in You.com's Research Mode by generating a collapsible sidebar. This sidebar aggregates and highlights text fragments from the citation hyperlinks, facilitating the examination of these fragments and consider their function.
 
 <img width="1016" alt="image" src="https://github.com/danielsgriffin/fragmentFocus/assets/6070690/77f5d87f-599f-4d7d-98d7-ae1923d3579e">
 
