@@ -1,10 +1,10 @@
 # fragmentFocus
 
-`fragmentFocus` is a userscript that improves the visibility and navigation of text fragments in You.com's Research Mode by generating a dropdown menu. This menu aggregates and highlights text fragments from hyperlinks, facilitating the examination of these fragments' roles.
+`fragmentFocus` is a userscript that improves the visibility and navigation of text fragments in You.com's Research Mode by generating a collapsible sidebar. This sidebar aggregates and highlights text fragments from the citation hyperlinks, facilitating the examination of these function of these fragments.
 
 ## Features
 
-- **Dynamic Dropdown**: Creates a dropdown menu to aggregate text fragments from the page.
+- **Dynamic Dropdown**: Creates a sidebar to aggregate text fragments from the page.
 - **Highlighting Text Fragments**: Marks text fragments for straightforward identification and comparison.
 - **Navigation Enhancement**: Simplifies navigating through text fragments and their sources.
 - **Duplicate Detection**: Flags duplicate text fragments to identify repeated text or quotations.
