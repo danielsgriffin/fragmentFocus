@@ -6,7 +6,7 @@
 
 ## Features
 
-- **Dynamic Dropdown**: Creates a sidebar to aggregate text fragments from the page.
+- **Dynamic Sidebar**: Creates a sidebar to aggregate text fragments from the page.
 - **Highlighting Text Fragments**: Marks text fragments for straightforward identification and comparison.
 - **Navigation Enhancement**: Simplifies navigating through text fragments and their sources.
 - **Duplicate Detection**: Flags duplicate text fragments to identify repeated text or quotations.
@@ -23,13 +23,13 @@
 
 After installation, the script scans for links with text fragments (`:~:text=` in URLs), then:
 
-- Compiles these fragments into a dropdown menu on the screen's right side.
+- Compiles these fragments into a sidebar on the screen's right side.
 - Highlights duplicates for comparison.
-- Enhances fragment visibility when hovered over in the dropdown.
+- Enhances fragment visibility when hovered over in the sidebar.
 
 ## Customization
 
-You can adjust the dropdown menu and fragment highlight styles by editing the script's CSS properties.
+You can adjust the sidebar and fragment highlight styles by editing the script's CSS properties.
 
 ## Compatibility
 
