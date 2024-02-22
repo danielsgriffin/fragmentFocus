@@ -11,6 +11,46 @@
 - **Navigation Enhancement**: Simplifies navigating through text fragments and their sources.
 - **Duplicate Detection**: Flags duplicate text fragments to identify repeated text or quotations.
 
+## Screen recording
+https://github.com/danielsgriffin/fragmentFocus/assets/6070690/54b2f3eb-1284-480b-a2da-87301b135bb8
+
+```
+00:00:00,000 --> 00:00:06,000
+Here is fragmentFocus, a userscript enhancing text fragment navigation on You.com's Research Mode.
+
+2
+00:00:07,000 --> 00:00:16,000
+This sidebar, collapsible via a button, organizes and emphasizes text fragments from citations for clearer analysis.
+
+3
+00:00:16,000 --> 00:00:21,000
+Text fragments, a feature supported by Chrome, allow URLs to highlight specific text portions.
+
+4
+00:00:21,000 --> 00:00:23,000
+visible on the linked page, when navigating to it.
+
+5
+00:00:25,000 --> 00:00:30,000
+fragmentFocus enriches this by making fragments more accessible and interactive on You.com.
+
+6
+00:00:31,000 --> 00:00:36,000
+Upon loading, the sidebar presents cited sources and their corresponding text fragments.
+
+7
+00:00:36,000 --> 00:00:43,000
+Hovering over a sidebar entry scrolls to and highlights the corresponding citation in the generated response
+
+8
+00:00:43,000 --> 00:00:47,000
+and vice versa.
+
+9
+00:00:47,000 --> 00:00:54,000
+For more details visit the GitHub page
+```
+
 ## Installation
 
 1. Install a userscript manager in your browser (Tampermonkey, Greasemonkey, etc.).
