@@ -2,6 +2,8 @@
 
 `fragmentFocus` is a userscript that improves the visibility and navigation of text fragments in You.com's Research Mode by generating a dropdown menu. This menu aggregates and highlights text fragments from hyperlinks, facilitating the examination of these fragments' roles.
 
+<img width="1016" alt="image" src="https://github.com/danielsgriffin/fragmentFocus/assets/6070690/77f5d87f-599f-4d7d-98d7-ae1923d3579e">
+
 ## Features
 
 - **Dynamic Dropdown**: Creates a dropdown menu to aggregate text fragments from the page.
